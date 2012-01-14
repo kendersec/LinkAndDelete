@@ -1,0 +1,1 @@
+Using the Dropbox API it copies a file to a certain folder (depending on the file type), puts the shared link in the clipboard and deletes the file locally. It works on Linux and Mac
